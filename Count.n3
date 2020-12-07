@@ -1,0 +1,25 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+@prefix owl: <http://www.w3.org/2002/07/owls#>.
+@prefix ch: <http://my.lab.com/characteristic#>.
+@prefix num: <http://my.lab.com/number#>.
+
+ch:DoNotPress num:hasNumberOfDamage 9 ;
+              num:hasNumberOfUnDamage 6 .
+ch:ExtraLight num:hasNumberOfDamage 2 ;
+              num:hasNumberOfUnDamage 3 .
+ch:Fragile num:hasNumberOfDamage 11 ;
+           num:hasNumberOfUnDamage 4 .
+ch:Heavy num:hasNumberOfDamage 0 ;
+         num:hasNumberOfUnDamage 7 .
+ch:Light num:hasNumberOfDamage 0 ;
+         num:hasNumberOfUnDamage 4 .
+ch:ScaredOfMoisture num:hasNumberOfDamage 2 ;
+                    num:hasNumberOfUnDamage 13 .
+ch:ScaredOfSun num:hasNumberOfDamage 2 ;
+               num:hasNumberOfUnDamage 13 .
+ch:Standard num:hasNumberOfDamage 1 ;
+            num:hasNumberOfUnDamage 4 .
+ch:TurnNotAllowed num:hasNumberOfDamage 4 ;
+                  num:hasNumberOfUnDamage 11 .

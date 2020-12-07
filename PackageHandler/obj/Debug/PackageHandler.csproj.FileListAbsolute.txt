@@ -1,0 +1,34 @@
+C:\Users\Мария\source\repos\PackageHandler\PackageHandler\bin\Debug\PackageHandler.exe.config
+C:\Users\Мария\source\repos\PackageHandler\PackageHandler\bin\Debug\PackageHandler.exe
+C:\Users\Мария\source\repos\PackageHandler\PackageHandler\bin\Debug\PackageHandler.pdb
+C:\Users\Мария\source\repos\PackageHandler\PackageHandler\obj\Debug\PackageHandler.csprojAssemblyReference.cache
+C:\Users\Мария\source\repos\PackageHandler\PackageHandler\obj\Debug\PackageHandler.Form1.resources
+C:\Users\Мария\source\repos\PackageHandler\PackageHandler\obj\Debug\PackageHandler.Properties.Resources.resources
+C:\Users\Мария\source\repos\PackageHandler\PackageHandler\obj\Debug\PackageHandler.csproj.GenerateResource.cache
+C:\Users\Мария\source\repos\PackageHandler\PackageHandler\obj\Debug\PackageHandler.exe
+C:\Users\Мария\source\repos\PackageHandler\PackageHandler\obj\Debug\PackageHandler.pdb
+C:\Users\Мария\source\repos\PackageHandler\PackageHandler\bin\Debug\NLog.dll
+C:\Users\Мария\source\repos\PackageHandler\PackageHandler\bin\Debug\NLog.xml
+C:\Users\Мария\source\repos\PackageHandler\PackageHandler\obj\Debug\PackageHandler.csproj.CopyComplete
+C:\Users\Мария\Desktop\4 курс\проектирование систем\Курсовая работа\PackageHandler\PackageHandler\bin\Debug\PackageHandler.exe.config
+C:\Users\Мария\Desktop\4 курс\проектирование систем\Курсовая работа\PackageHandler\PackageHandler\bin\Debug\PackageHandler.exe
+C:\Users\Мария\Desktop\4 курс\проектирование систем\Курсовая работа\PackageHandler\PackageHandler\bin\Debug\PackageHandler.pdb
+C:\Users\Мария\Desktop\4 курс\проектирование систем\Курсовая работа\PackageHandler\PackageHandler\bin\Debug\dotNetRDF.dll
+C:\Users\Мария\Desktop\4 курс\проектирование систем\Курсовая работа\PackageHandler\PackageHandler\bin\Debug\HtmlAgilityPack.dll
+C:\Users\Мария\Desktop\4 курс\проектирование систем\Курсовая работа\PackageHandler\PackageHandler\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Мария\Desktop\4 курс\проектирование систем\Курсовая работа\PackageHandler\PackageHandler\bin\Debug\NLog.dll
+C:\Users\Мария\Desktop\4 курс\проектирование систем\Курсовая работа\PackageHandler\PackageHandler\bin\Debug\VDS.Common.dll
+C:\Users\Мария\Desktop\4 курс\проектирование систем\Курсовая работа\PackageHandler\PackageHandler\bin\Debug\dotNetRDF.xml
+C:\Users\Мария\Desktop\4 курс\проектирование систем\Курсовая работа\PackageHandler\PackageHandler\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\Мария\Desktop\4 курс\проектирование систем\Курсовая работа\PackageHandler\PackageHandler\bin\Debug\HtmlAgilityPack.xml
+C:\Users\Мария\Desktop\4 курс\проектирование систем\Курсовая работа\PackageHandler\PackageHandler\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Мария\Desktop\4 курс\проектирование систем\Курсовая работа\PackageHandler\PackageHandler\bin\Debug\NLog.xml
+C:\Users\Мария\Desktop\4 курс\проектирование систем\Курсовая работа\PackageHandler\PackageHandler\bin\Debug\VDS.Common.pdb
+C:\Users\Мария\Desktop\4 курс\проектирование систем\Курсовая работа\PackageHandler\PackageHandler\bin\Debug\VDS.Common.xml
+C:\Users\Мария\Desktop\4 курс\проектирование систем\Курсовая работа\PackageHandler\PackageHandler\obj\Debug\PackageHandler.csprojAssemblyReference.cache
+C:\Users\Мария\Desktop\4 курс\проектирование систем\Курсовая работа\PackageHandler\PackageHandler\obj\Debug\PackageHandler.Form1.resources
+C:\Users\Мария\Desktop\4 курс\проектирование систем\Курсовая работа\PackageHandler\PackageHandler\obj\Debug\PackageHandler.Properties.Resources.resources
+C:\Users\Мария\Desktop\4 курс\проектирование систем\Курсовая работа\PackageHandler\PackageHandler\obj\Debug\PackageHandler.csproj.GenerateResource.cache
+C:\Users\Мария\Desktop\4 курс\проектирование систем\Курсовая работа\PackageHandler\PackageHandler\obj\Debug\PackageHandler.csproj.CopyComplete
+C:\Users\Мария\Desktop\4 курс\проектирование систем\Курсовая работа\PackageHandler\PackageHandler\obj\Debug\PackageHandler.exe
+C:\Users\Мария\Desktop\4 курс\проектирование систем\Курсовая работа\PackageHandler\PackageHandler\obj\Debug\PackageHandler.pdb

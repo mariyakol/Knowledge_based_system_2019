@@ -1,0 +1,22 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix mp: <http://my.lab.com/myproperties#>.
+@prefix ag: <http://my.lab.com/agent#>.
+@prefix ch: <http://my.lab.com/characteristic#>.
+@prefix num: <http://my.lab.com/number#>.
+@prefix con: <http://my.lab.com/content#>.
+
+ch:Fragile rdf:type ch:Marks .
+ch:TurnNotAllowed rdf:type ch:Marks .
+ch:ScaredOfMoisture rdf:type ch:Marks .
+ch:ScaredOfSun rdf:type ch:Marks .
+ch:DoNotPress rdf:type ch:Marks .
+
+con:undamage rdf:type con:ContentOfPackage .
+con:damage rdf:type con:ContentOfPackage .
+
+
+ag:package1 ch:hasWeight 13. 
+ag:package1 ch:hasMark ch:Fragile.----пошли на пресс
+
+ag:package1 con:hasStateAfterPress con:damage 
